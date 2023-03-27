@@ -1,4 +1,4 @@
-Hi 👋, I'm Felipe Miranda
+## Hi 👋, I'm Felipe Miranda
 
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with open-source projects
